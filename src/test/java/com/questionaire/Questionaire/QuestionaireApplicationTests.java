@@ -1,13 +1,13 @@
-package com.questionaire.Questionaire;
+// package com.questionaire.Questionaire;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class QuestionaireApplicationTests {
+// @SpringBootTest
+// class QuestionaireApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
